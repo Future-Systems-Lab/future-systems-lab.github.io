@@ -1,0 +1,16 @@
+site_name: Future Systems Lab
+site_url: https://future-systems-lab.github.io
+theme:
+  name: material
+  palette:
+    scheme: slate
+  features:
+    - navigation.tabs
+    - navigation.expand
+    - navigation.sections
+    - toc.integrate
+    - content.code.copy
+nav:
+  - Home: index.md
+  - Architecture:
+      - Overview: architecture/overview.md
