@@ -1,3 +1,12 @@
-# Future Systems Lab
+# Future Systems Lab Documentation
 
-Welcome to the documentation site for the Future Systems Lab ecosystem.
+Welcome to the private documentation site.
+
+This site will contain:
+- Architecture diagrams
+- Governance scaffolding
+- Development standards
+- System blueprints
+- Token + consent layers
+- Wearables + AI modules
+
